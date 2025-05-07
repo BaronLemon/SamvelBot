@@ -1,6 +1,6 @@
 from aiogram.types import LabeledPrice, CallbackQuery
 
-payment_api = '381764678:TEST:122181'
+payment_api = 'payment_api'
 
 
 async def send_invoice(callback: CallbackQuery):
