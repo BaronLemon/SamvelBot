@@ -1,7 +1,7 @@
 from aiogram.types import LabeledPrice, CallbackQuery
 import json
 
-payment_api = '390540012:LIVE:69817'
+payment_api = ''
 
 
 
